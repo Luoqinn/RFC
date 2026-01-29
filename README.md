@@ -1,5 +1,6 @@
 # RFC: Reciprocal Fusion with Calibration for Reranking
 
+
 * This repository implements the **RFC (Reciprocal Fusion with Calibration)** framework, an openset rerank for recommendation pipeline
 * Paper: Reciprocal Collaborative and Semantic Fusion with Calibration via Large Language Models for Recommendation Reranking
 
