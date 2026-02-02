@@ -21,7 +21,7 @@ We propose a novel framework termed **R**eciprocal **F**usion with **C**alibrati
 
 ## 📂 Project Structure
 
-* `main.py`: Entry point.
+* `RFC_main.py`: Entry point.
 * `GASS.py`: Global Anchor based Semantic Scoring.
 * `LLMUserEmbGen.py`: Generate user semantic embedding.
 * `ReciprocalRescorer.py`: Reciprocal Rescoring Fusion.
@@ -55,5 +55,5 @@ sim_users = 50     # Number of reciprocal neighbors to consider
 
 ## 🖥️ Usage
 ``` python
-python main.py
+python RFC_main.py
 
