@@ -116,7 +116,7 @@ def main():
         col_emb=col_user_emb,
         cfm_rating_mat=cfm_rating_mat,
         sem_score=sem_score,
-        sem_emb=llm_user_emb,  # Semantic embeddings not used in this example
+        sem_emb=llm_user_emb, 
         alpha=alpha,
         sim_users=sim_users,
         topk=topk,
@@ -154,4 +154,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
